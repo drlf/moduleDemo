@@ -1,0 +1,33 @@
+{
+  "name": "moduleDemo",
+  "version": "0.0.1",
+  "description": "demo of usefull third party modules.",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "~2.0.0",
+    "prompt": "~0.2.9",
+    "iconv-lite": "~0.2.7",
+    "forever": "*",
+    "mkdirp": "*",
+    "ini": "*",
+    "stack-trace": "*",
+    "uglify-js": "*",
+    "findit": "*",
+    "socket.io": "*",
+    "iconv": "~2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drlf/moduleDemo"
+  },
+  "keywords": [
+    "demo",
+    "module"
+  ],
+  "author": "drlf",
+  "license": "BSD"
+}
