@@ -14,7 +14,7 @@
     "uglify-js": "*",
     "findit": "*",
     "socket.io": "*",
-    "iconv": "~2.0.2"
+    "mongodb" : "*"
   },
   "devDependencies": {},
   "scripts": {
