@@ -14,7 +14,8 @@
     "uglify-js": "*",
     "findit": "*",
     "socket.io": "*",
-    "mongodb" : "*"
+    "mongodb" : "*",
+    "node-uuid" : "*"
   },
   "devDependencies": {},
   "scripts": {
